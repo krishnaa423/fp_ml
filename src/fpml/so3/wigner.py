@@ -1,13 +1,13 @@
 #region modules
-#endregions
+#endregion
 
 #region variables
-#endregions
+#endregion
 
 #region functions
-#endregions
+#endregion
 
 #region classes
 class Wigner:
-    pass
-#endregions
+    pass 
+#endregion
